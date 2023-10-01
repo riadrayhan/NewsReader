@@ -2,11 +2,11 @@
 A News app made with flutter SDK which fetches news from news API and NewYorkTimes api. It has features like category wise news, searching for news articles in this app.
 News App developed with Flutter and API from News API
 <h3>Features</h3>
-  <ui> List daily news.</ui>
- <ui>Breaking News and All News category.</ui>
-<ui> Refresh list daily news with pull to refresh style.</ui>
- <ui>Go to detail news website.</ui>
- <ui>Search news.</ui>
+  <p>List daily news.</p>
+ <p>Breaking News and All News category.</p>
+<p> Refresh list daily news with pull to refresh style.</p>
+ <p>Go to detail news website.</p>
+<p>Search news.</p>
 
 <h4>App Screenshot</h4>
 
